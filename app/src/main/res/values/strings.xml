@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DiceApp</string>
+    <string name="max_dices">최대 주사위 갯수 초과</string>
+</resources>
